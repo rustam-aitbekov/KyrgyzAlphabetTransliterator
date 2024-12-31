@@ -1,1 +1,1 @@
-# KyrgyzAlphabetTransliterator
+# Транслитерация кыргызского алфавита по стандартам wikipedia и icao
